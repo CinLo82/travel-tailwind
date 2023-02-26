@@ -35,7 +35,7 @@
 }
 
 .Card--rentas {
-    @apply w-full h-96 bg-cover rounded-xl
+    @apply w-full h-96 bg-cover rounded-xl 
 
 }
 
@@ -44,7 +44,7 @@
 }
 
 .Card--rentas__Subtitle {
-    @apply text-sm pl-8 mr-24
+    @apply text-sm pl-8 mr-24 lg:text-xl
 }
 
 .Faqs--ank {
