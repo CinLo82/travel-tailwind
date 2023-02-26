@@ -46,3 +46,11 @@
 .Card--rentas__Subtitle {
     @apply text-sm pl-8 mr-24
 }
+
+.Faqs--ank {
+    @apply text-xl font-semibold text-primary
+}
+
+.Faqs--answer {
+    @apply font-medium pt-2
+}
