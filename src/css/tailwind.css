@@ -54,3 +54,7 @@
 .Faqs--answer {
     @apply font-medium pt-2
 }
+
+.Footer--text {
+    @apply font-medium text-grey-300
+}
