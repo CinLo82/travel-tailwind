@@ -33,3 +33,16 @@
 .Card--info__subtitle2 {
     @apply text-tertiary text-base px-4;
 }
+
+.Card--rentas {
+    @apply w-full h-96 bg-cover rounded-xl
+
+}
+
+.Card--rentas__Title {
+    @apply text-3xl px-8 pt-8 pb-2 font-semibold text-white
+}
+
+.Card--rentas__Subtitle {
+    @apply text-sm pl-8 mr-24
+}
