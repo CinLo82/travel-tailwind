@@ -1,3 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.Card {
+    @apply w-48 h-64 shadow-md rounded-lg;
+}
+
+.Card--cover {
+    @apply w-48 h-3/5 rounded-t-lg bg-cover;
+}
+
+.Card--info1 {
+    @apply w-48 h-2/5 rounded-b-lg flex items-center justify-center flex-col bg-secondary;
+}
+
+.Card--info2 {
+    @apply w-48 h-2/5 rounded-b-lg flex items-center justify-center flex-col bg-white;
+}
+
+.Card--info__title1 {
+    @apply text-white font-bold text-xl;
+}
+
+.Card--info__title2 {
+    @apply text-tertiary font-bold text-xl;
+}
+
+.Card--info__subtitle1 {
+    @apply text-white text-base px-4;
+}
+
+.Card--info__subtitle2 {
+    @apply text-tertiary text-base px-4;
+}

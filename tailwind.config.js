@@ -7,8 +7,6 @@ module.exports = {
       'secondary':"#8FA206",
       'tertiary':"#61AEC9",
       'white': "#FFF",
-      'light_blue': "#61AEC9"
-
     },
     
     fontFamily: { 
@@ -38,5 +36,6 @@ module.exports = {
     require("@tailwindcss/forms"),
     require("@tailwindcss/typography"),
     require("@tailwindcss/aspect-ratio"),
+    require("tailwind-scrollbar-hide"),
   ],
 };
