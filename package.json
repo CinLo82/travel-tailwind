@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/CinLo82/travel-tailwind/issues"
   },
-  "homepage": "https://github.com/CinLo82/travel-tailwind#readme",
+  "homepage": "https://github.com/CinLo82/travel-tailwind#index.html",
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/typography": "^0.5.9",

@@ -58,3 +58,7 @@
 .Footer--text {
     @apply font-medium text-gray-300 
 }
+
+.Nav--Desktop {
+    @apply font-bold text-primary dark:text-white
+}
