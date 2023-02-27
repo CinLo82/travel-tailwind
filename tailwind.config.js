@@ -17,7 +17,6 @@ module.exports = {
       'gray-800': "#1F2937",
       'gray-900': "#1F2937 ",
       current: "currentColor",
-
     },
     
     fontFamily: { 
